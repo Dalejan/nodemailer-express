@@ -1,8 +1,8 @@
-#Express - Nodemailer 
+# Express - Nodemailer 
 
-###Express Server with email sender
+### Express Server with email sender
 
-#####How to use?
+##### How to use?
 
 Install dependencies
 > npm init
@@ -10,7 +10,7 @@ Install dependencies
 Start the server
 > npm start
 
-#####Keys and secrets needed
+##### Keys and secrets needed
 
 First, you have to [create a project on google cloud dashboard](https://console.cloud.google.com/).
 
